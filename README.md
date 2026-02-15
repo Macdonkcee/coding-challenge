@@ -1,5 +1,5 @@
-# coding-challenge
-Campus Calculator &amp; Class Result Assistant
+# Coding-challenge
+Campus Calculator & Class Result Assistant
 
 ## 1. Campus Calculator
 Coding of Campus Calculator capable of doing addition, substration, multiplication, division.
